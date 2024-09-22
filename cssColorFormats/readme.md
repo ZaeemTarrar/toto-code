@@ -46,6 +46,6 @@ Create 3 boxes and color them in all colors formats available in css.
     }
     ```
 
-## Snapshots
+## Snapshot
 
 ![Snapshot](snapshot.png)
