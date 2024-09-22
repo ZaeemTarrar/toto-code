@@ -8,11 +8,21 @@ Create 3 boxes and color them in all colors formats available in css.
 
 - Hexa-Decimal
 
+    `6 Characters`
     ```css
     #box4 {
         width: 100px;
         height: 100px;
         background-color: #0099FF
+    }
+    ```
+
+    `3 Characters`
+    ```css
+    #box4 {
+        width: 100px;
+        height: 100px;
+        background-color: #09F
     }
     ```
 
