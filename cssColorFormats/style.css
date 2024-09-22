@@ -1,0 +1,27 @@
+/* Color by Names */
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+/* RGB Colors */
+#box2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(50,100,50);
+}
+
+/* RGBA Colors */
+#box3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(50,100,50,0.4);
+}
+
+/* Hexa-Decimal Colors */
+#box4 {
+    width: 100px;
+    height: 100px;
+    background-color: #0099FF
+}
