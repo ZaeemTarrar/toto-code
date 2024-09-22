@@ -1,3 +1,8 @@
+/* Main Body */
+body {
+    background-color: #333;
+}
+
 /* Color by Names */
 #box1 {
     width: 100px;
