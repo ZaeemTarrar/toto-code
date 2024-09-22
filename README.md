@@ -10,4 +10,4 @@ Todo's List
 - [ ] [Random Color Switch](/RandomColorSwitch)
 - [ ] [Random Color Switch Loop](/RandomColorSwitchLoop)
 - [ ] [Time Clock](/TimeClock)
-- [ ] [Data Display](Data Display)
+- [ ] [Data Display](/DataDisplay)
